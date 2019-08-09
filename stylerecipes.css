@@ -1,0 +1,7 @@
+img { 
+	max-width: 100%;
+	}
+img.thumbnail { 
+	width: 100px;
+	height: 70px;
+	}
